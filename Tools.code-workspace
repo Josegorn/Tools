@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "⚙️raiz",
+			"path": "."
+		},
+		{
+			"name": "📂Recursos",
+			"path": ".\\res"
+		}
+	],
+	"settings": {
+		"[bat]": {
+			"files.encoding": "utf8",
+			"editor.tabSize": 6,
+			"editor.detectIndentation": true,
+			"editor.trimAutoWhitespace": true,
+			"editor.useTabStops": true,
+			"editor.guides.indentation": false
+		}
+	}
+}
